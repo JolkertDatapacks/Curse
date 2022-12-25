@@ -1,0 +1,1 @@
+scoreboard players set #curse curse.onCooldown 0
