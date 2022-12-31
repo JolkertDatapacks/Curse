@@ -6,7 +6,7 @@
 				"player": {
 					"equipment": {
 						"mainhand": {
-							"nbt": "{curse.curse:1b}"
+							"nbt": "{curse:1b}"
 						}
 					}
 				},
